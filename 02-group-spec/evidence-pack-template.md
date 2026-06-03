@@ -4,7 +4,7 @@ Nộp kèm thin SPEC cuối Day 05.
 
 ## 1. Nhóm và track
 
-**Tên nhóm:** Nhóm [Điền Tên Nhóm]
+**Tên nhóm:** Nhóm Bills
 **Track:** Tài chính cá nhân / Thanh toán nhóm
 **Product/app đã chọn:** MoMo (Tính năng Chia tiền nhóm)
 **Build slice đang nghĩ:** Dùng Vision AI bóc tách hóa đơn giấy và tạo link chọn món tương tác (Crowdsourcing) để chia tiền.
